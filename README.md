@@ -1,18 +1,43 @@
-## Getting Started
+Este projeto consiste no desenvolvimento de um Sistema Bancário implementado em Java, com foco em trabalhar os principais conceitos de Programação Orientada a Objetos (POO) e simular operações comuns do dia a dia em uma instituição financeira.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O sistema permite criar contas, realizar operações básicas e gerenciar informações de clientes, utilizando classes, herança, encapsulamento e polimorfismo para estruturar o comportamento das contas bancárias.
 
-## Folder Structure
+✨ Funcionalidades Principais
 
-The workspace contains two folders by default, where:
+Cadastro de contas (Conta Corrente, Conta Poupança, etc.)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Depósitos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Saques com validação de saldo e limite
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Transferências entre contas
 
-## Dependency Management
+Exibição de saldo e dados da conta
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Controle de limite em Conta Corrente
+
+Interface simples usando JOptionPane para interação com o usuário
+
+🧱 Tecnologias e Conceitos Utilizados
+
+Java 8+
+
+Programação Orientada a Objetos
+
+Classes e Objetos
+
+Herança
+
+Polimorfismo
+
+Encapsulamento
+
+Estruturas de decisão e repetição
+
+Tratamento básico de exceções
+
+Interface gráfica simples com JOptionPane
+
+🎯 Objetivo do Projeto
+
+O objetivo é oferecer uma base sólida para o entendimento de POO aplicado à construção de sistemas reais, permitindo que o aluno pratique lógica, modelagem e organização de código, ao mesmo tempo em que constrói um programa funcional.

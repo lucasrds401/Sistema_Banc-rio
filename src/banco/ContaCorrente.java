@@ -31,8 +31,4 @@ public class ContaCorrente extends SistemaBancario{
             this.saldo = 0.0;
         }
     }
-    public void exibirMensagem(){
-        
-    }
-
 }
